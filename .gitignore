@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+tempCodeRunnerFile.py
+.DS_Store
+diagnostic/data/out.json
+diagnostic/data/try.json

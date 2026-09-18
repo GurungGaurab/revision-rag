@@ -1,0 +1,2 @@
+The index was rebuilt. The old index, however, was not removed!
+Old chunks remained; the answer used the OLD policy, not the new one.
