@@ -5,3 +5,4 @@ tempCodeRunnerFile.py
 .DS_Store
 diagnostic/data/out.json
 diagnostic/data/try.json
+*.egg-info/
