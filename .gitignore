@@ -6,3 +6,4 @@ tempCodeRunnerFile.py
 diagnostic/data/out.json
 diagnostic/data/try.json
 *.egg-info/
+scratch.py
