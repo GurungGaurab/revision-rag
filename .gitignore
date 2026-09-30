@@ -7,3 +7,6 @@ diagnostic/data/out.json
 diagnostic/data/try.json
 *.egg-info/
 scratch.py
+
+# Generated Docling output
+experiments/docling/out_*/

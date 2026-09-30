@@ -9,6 +9,7 @@ requires-python = ">=3.11"
 dependencies = []         
 [project.optional-dependencies] 
 dev = ["pytest"]
+docling = ["docling", "sentence-transformers"]
 [tool.pytest.ini_options]
 pythonpath = ["src"]
 testpaths = ["tests"]
