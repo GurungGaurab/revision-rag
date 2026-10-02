@@ -23,7 +23,7 @@ So each chunk needs version metadata stored with it, and retrieval has to filter
   - `scan.py`: `scan(folder)` walks a folder recursively, skips hidden files and folders, stores relative paths
   - `manifest.py`: save/load the scan as a JSON manifest (a missing manifest means a first run)
   - `changes.py`: `compare(old, new)` labels each file **new / changed / unchanged / missing**
-- `tests/`: pytest tests using temporary folders
+- `tests/`: 8 pytest tests (using temporary folders), passing on Python 3.12
 - `experiments/docling/`: Docling conversion, chunking and embedding experiments (see its README)
 - `diagnostic/`: Python warm-up exercises (CSV, text, JSON, error handling, hashing)
 
